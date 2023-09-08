@@ -11,3 +11,4 @@ email: sb-0kbyk27306237@personal.example.com
 password: k-YW1Wl)
 
 # it is the sandbox method which was implemented with paypal
+![Screenshot](photo.png)

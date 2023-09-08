@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'store' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'nouveau_mot_de_passe' );
+define( 'DB_PASSWORD', 'deo' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
