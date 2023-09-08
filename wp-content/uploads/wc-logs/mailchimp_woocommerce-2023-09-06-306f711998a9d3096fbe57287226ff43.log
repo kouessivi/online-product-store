@@ -1,0 +1,236 @@
+2023-09-06T14:25:08+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 64f71790edd10
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => c14713bb35
+            [name] => storetech
+            [domain] => http://localhost/php/online-product-store
+            [email_address] => dgbozo@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => fr_FR
+            [timezone] => +00:00
+            [phone] => 66328731
+            [address] => Array
+                (
+                    [address1] => cotonou
+                    [city] => cotonou
+                    [province] => LI
+                    [postal_code] => 00229
+                    [country] => BJ
+                    [country_code] => BJ
+                    [phone] => 66328731
+                    [company] => storetech
+                )
+
+        )
+
+)
+
+2023-09-06T14:25:17+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2023-09-06T14:25:22+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 64f71790edd10
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => c14713bb35
+            [name] => storetech
+            [domain] => http://localhost/php/online-product-store
+            [email_address] => dgbozo@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => fr_FR
+            [timezone] => +00:00
+            [phone] => 66328731
+            [address] => Array
+                (
+                    [address1] => cotonou
+                    [city] => cotonou
+                    [province] => LI
+                    [postal_code] => 00229
+                    [country] => BJ
+                    [country_code] => BJ
+                    [phone] => 66328731
+                    [company] => storetech
+                )
+
+        )
+
+)
+
+2023-09-06T14:25:28+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2023-09-06T14:25:36+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 64f71790edd10
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => c14713bb35
+            [name] => storetech
+            [domain] => http://localhost/php/online-product-store
+            [email_address] => dgbozo@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => fr_FR
+            [timezone] => +00:00
+            [phone] => 66328731
+            [address] => Array
+                (
+                    [address1] => cotonou
+                    [city] => cotonou
+                    [province] => LI
+                    [postal_code] => 00229
+                    [country] => BJ
+                    [country_code] => BJ
+                    [phone] => 66328731
+                    [company] => storetech
+                )
+
+        )
+
+)
+
+2023-09-06T14:25:41+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2023-09-06T14:25:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_WebHooks_Sync queued
+2023-09-06T14:25:46+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Wed, Sep 6, 2023 2:25 PM
+2023-09-06T14:25:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2023-09-06T14:26:07+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2023-09-06T14:26:20+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2023-09-06T14:26:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2023-09-06T14:26:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2023-09-06T14:26:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 21
+2023-09-06T14:26:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 24
+2023-09-06T14:26:33+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 29
+2023-09-06T14:26:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 34
+2023-09-06T14:26:35+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 38
+2023-09-06T14:26:36+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 41
+2023-09-06T14:26:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 43
+2023-09-06T14:26:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 45
+2023-09-06T14:26:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 47
+2023-09-06T14:26:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 51
+2023-09-06T14:26:40+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 55
+2023-09-06T14:26:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 60
+2023-09-06T14:26:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 64
+2023-09-06T14:26:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 69
+2023-09-06T14:26:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 74
+2023-09-06T14:26:44+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 79
+2023-09-06T14:26:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 84
+2023-09-06T14:26:45+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 90
+2023-09-06T14:26:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 96
+2023-09-06T14:26:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 101
+2023-09-06T14:26:47+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 105
+2023-09-06T14:26:59+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2023-09-06T14:27:06+00:00 NOTICE product_submit.success :: addStoreProduct :: #21
+2023-09-06T14:27:22+00:00 NOTICE product_submit.success :: addStoreProduct :: #24
+2023-09-06T14:27:36+00:00 NOTICE product_submit.success :: addStoreProduct :: #29
+2023-09-06T14:27:42+00:00 NOTICE product_submit.success :: addStoreProduct :: #34
+2023-09-06T14:27:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #38
+2023-09-06T14:28:46+00:00 NOTICE product_submit.success :: addStoreProduct :: #41
+2023-09-06T14:29:04+00:00 NOTICE product_submit.success :: addStoreProduct :: #43
+2023-09-06T14:29:13+00:00 NOTICE product_submit.success :: addStoreProduct :: #45
+2023-09-06T14:29:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #47
+2023-09-06T14:29:52+00:00 NOTICE product_submit.success :: addStoreProduct :: #51
+2023-09-06T14:30:05+00:00 NOTICE product_submit.success :: addStoreProduct :: #55
+2023-09-06T14:30:12+00:00 NOTICE product_submit.success :: addStoreProduct :: #60
+2023-09-06T14:30:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #64
+2023-09-06T14:30:44+00:00 NOTICE product_submit.success :: addStoreProduct :: #69
+2023-09-06T14:30:48+00:00 NOTICE product_submit.success :: addStoreProduct :: #74
+2023-09-06T14:31:44+00:00 NOTICE product_submit.success :: addStoreProduct :: #79
+2023-09-06T14:31:52+00:00 NOTICE product_submit.success :: addStoreProduct :: #84
+2023-09-06T14:31:57+00:00 NOTICE product_submit.success :: addStoreProduct :: #90
+2023-09-06T14:32:20+00:00 NOTICE product_submit.success :: addStoreProduct :: #96
+2023-09-06T14:32:33+00:00 NOTICE product_submit.success :: addStoreProduct :: #101
+2023-09-06T14:32:39+00:00 NOTICE product_submit.success :: addStoreProduct :: #105
+2023-09-06T14:32:58+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2023-09-06T14:33:11+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2023-09-06T14:33:31+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Sep 6, 2023 2:33 PM (total time: 00:07:45)
+2023-09-06T14:33:46+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_WebHooks_Sync queued
+2023-09-06T14:33:46+00:00 NOTICE sync :: Sync manager has finished queuing jobs and flagged the store as not syncing.
+2023-09-06T14:34:00+00:00 NOTICE webhooks :: could not add webhooks because of the permalink structure! :: Array
+(
+    [permalink_structure] => 
+)
+
+2023-09-06T15:09:13+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2023-09-06T15:09:16+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 64f71790edd10
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => c14713bb35
+            [name] => storetech
+            [domain] => http://localhost/php/online-product-store
+            [email_address] => dgbozo@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => fr_FR
+            [timezone] => +00:00
+            [phone] => 66328731
+            [address] => Array
+                (
+                    [address1] => cotonou
+                    [city] => cotonou
+                    [province] => LI
+                    [postal_code] => 00229
+                    [country] => BJ
+                    [country_code] => BJ
+                    [phone] => 66328731
+                    [company] => storetech
+                )
+
+        )
+
+)
+
+2023-09-06T15:09:27+00:00 NOTICE admin :: updated GDPR fields :: Array
+(
+    [fields] => Array
+        (
+        )
+
+)
+
+2023-09-06T15:09:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_WebHooks_Sync queued
+2023-09-06T15:09:55+00:00 NOTICE webhooks :: could not add webhooks because of the permalink structure! :: Array
+(
+    [permalink_structure] => 
+)
+
+2023-09-06T15:13:20+00:00 NOTICE store.disconnected :: Store id 64f71790edd10 has been disconnected
+2023-09-06T15:13:35+00:00 NOTICE webhooks :: Deleted old plugin webhooks
